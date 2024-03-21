@@ -1,0 +1,7 @@
+Запуск тестов:
+1. Открыть проект
+2. Запустить
+    start_tests.bat - запуск тестов
+    start_tests_with_out_dep.bat - установка зависимостей + запуск тестов
+    start_tests_with_allure.bat - запуск тестов с генерацией отчетов allure
+    start_test_with_allure_with_out_depend.bat - установка зависимостей + запуск тестов с генерацией отчетов allure
